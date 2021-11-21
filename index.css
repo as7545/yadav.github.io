@@ -1,0 +1,19 @@
+body{
+    background-color: yellowgreen;
+    
+}
+div{
+    text-align: center;
+}
+p{
+    margin-top: 30px;
+
+}
+h1{
+    font-size: larger;
+    font-weight: 1000px;
+}
+a{
+    display: center;
+    color: black;
+}
